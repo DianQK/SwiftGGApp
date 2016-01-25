@@ -819,7 +819,7 @@
 					"$(PROJECT_DIR)/SwiftGG/Library/JPush",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" -D DEBUG";
-				PRODUCT_BUNDLE_IDENTIFIER = org.swiftgg.SwiftGG;
+				PRODUCT_BUNDLE_IDENTIFIER = org.swiftgg.SwiftGGQing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "$(PROJECT_DIR)/SwiftGG/Application/SwiftGG-Bridging-Header.h";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -844,7 +844,7 @@
 					"$(PROJECT_DIR)/SwiftGG/Library/JPush",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" -D DEBUG";
-				PRODUCT_BUNDLE_IDENTIFIER = org.swiftgg.SwiftGG;
+				PRODUCT_BUNDLE_IDENTIFIER = org.swiftgg.SwiftGGQing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "$(PROJECT_DIR)/SwiftGG/Application/SwiftGG-Bridging-Header.h";
 				TARGETED_DEVICE_FAMILY = 1;
